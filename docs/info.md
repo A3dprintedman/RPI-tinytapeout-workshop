@@ -10,7 +10,7 @@ You can also include images in this folder and reference them in the markdown. E
 ## How it works
 
 Explain how your project works
-simply this is a simple 2 input AND gate. flip in1 and in0 to on and the light will turn on 
+simply this is a simple 2 input AND gate. flip in1 and in0 to on and the light will turn on
 
 ## How to test
 
